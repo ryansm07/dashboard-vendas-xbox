@@ -61,7 +61,7 @@ A partir desses dados, foi desenvolvido um dashboard com foco em análise explor
 
 ## 📁 Estrutura do projeto
 
-- 📂 projeto
+- 📂 Dashboard de Vendas
   - ├── base.xlsx
-  - └── dashboard_gamepass.xlsx
+  - ├── dashboard.xlsx
 
